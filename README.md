@@ -38,7 +38,7 @@ To run this dashboard locally:
 
 1. Clone the repository:
   
-   git clone https://github.com/yourusername/toyota-hackathon-dashboard.git
+   git clone (https://github.com/Alwinurul02/Toyota_Hackathon_Dashboard_Series_SRO.git)
    cd toyota-hackathon-dashboard
    
 2. Install required R packages:
